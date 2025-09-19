@@ -1,6 +1,7 @@
 <div align="center">
     <h2>
-      🪄 MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models
+      🪄 MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models<br><br>
+      <a href="http://arxiv.org/abs/2509.14651"> <img alt="paper link" src="https://img.shields.io/badge/Paper-arXiv-red"> </a>
     </h2>
 </div>
 
