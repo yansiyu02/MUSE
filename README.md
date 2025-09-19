@@ -119,3 +119,15 @@ An example of MUSE-A against Llama-3-8B, demonstrating the effectiveness of the 
 <div align="center">
   <img src="assets/llama3-8b.png" alt="Logo" width="700">
 </div>
+
+## Citation
+If you find MUSE useful for your research and applications, please feel free to give us a star and cite us through:
+
+```
+@article{yan2025muse,
+  title={MUSE: MCTS-Driven Red Teaming Framework for Enhanced Multi-Turn Dialogue Safety in Large Language Models},
+  author={Siyu Yan and Long Zeng and Xuecheng Wu and Chengcheng Han and Kongcheng Zhang and Chong Peng and Xuezhi Cao and Xunliang Cai and Chenjuan Guo},
+  journal={arXiv preprint arXiv:2509.14651},
+  year={2025}
+}
+```
